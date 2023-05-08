@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-interactive-hide-and-go-seek-program
+<br>
+Design and write an interactive hide and go seek program. Create several human players. Make one player the seeker. Place the other players in an array. Place objects in the scene. Hide the players among the objects. Define conditions that determine whether the seeker finds a player or not. Use keyboard commands to move the seeker around the scene. The seeker looks for players until the seeker finds all the other players or until the seeker takes a predetermined number of steps. Modularity counts. Write functions and procedures with parameters.
